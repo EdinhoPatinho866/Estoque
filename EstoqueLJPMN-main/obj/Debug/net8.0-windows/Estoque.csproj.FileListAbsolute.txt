@@ -1,0 +1,218 @@
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Estoque.exe
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Estoque.deps.json
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Estoque.runtimeconfig.json
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Estoque.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Estoque.pdb
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.FrmMenu.resources
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.FrmGerir.resources
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.FrmLogin.resources
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.FrmUsuario.resources
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.csproj.GenerateResource.cache
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.AssemblyInfoInputs.cache
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.AssemblyInfo.cs
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\refint\Estoque.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.pdb
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.genruntimeconfig.cache
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\ref\Estoque.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.csproj.AssemblyReference.cache
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.csproj.Up2Date
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.Formularios.FrmCategoria.resources
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.Formularios.FrmFornecedor.resources
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.Formularios.FrmMarca.resources
+C:\Users\Kalevi\Desktop\trab2\Estoque\obj\Debug\net8.0-windows\Estoque.Formularios.FrmCadProdutos.resources
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Estoque.exe
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Estoque.deps.json
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Estoque.runtimeconfig.json
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Estoque.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Estoque.pdb
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.csproj.AssemblyReference.cache
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.Formularios.FrmCadProdutos.resources
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.Formularios.FrmCategoria.resources
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.Formularios.FrmFornecedor.resources
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.FrmGerir.resources
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.FrmLogin.resources
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.Formularios.FrmMarca.resources
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.FrmMenu.resources
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.FrmUsuario.resources
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.csproj.GenerateResource.cache
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.AssemblyInfoInputs.cache
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.AssemblyInfo.cs
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.csproj.Up2Date
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\refint\Estoque.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.pdb
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\Estoque.genruntimeconfig.cache
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\obj\Debug\net8.0-windows\ref\Estoque.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Coord.Info\Documents\Visual Studio Code\HTML (João)\EstoqueLJPMN-main\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
